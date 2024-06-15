@@ -2,9 +2,9 @@
 
 This is a dataset called ENT for Relational Triple Extraction.
 
-At present, 200 samples of the dataset are shown in examples.json.
+The full dataset has been open sourced in the /data.
 
-The full dataset will be open sourced in the near future.
+We provide 200 samples of the dataset in examples.json for a quick overview.
 
 This is the corresponding anonymous open source content for this paper of ACL ARR rolling June 2024:
 
